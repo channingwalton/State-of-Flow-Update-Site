@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.stateofflow.eclipse.metrics.feature_3.14.0.201104281647.jar" id="com.stateofflow.eclipse.metrics.feature" version="3.14.0.201104281647"/>
-   <feature url="features/com.stateofflow.eclipse.saveme.feature_1.0.3.201104281647.jar" id="com.stateofflow.eclipse.saveme.feature" version="1.0.3.201104281647"/>
-   <feature url="features/com.stateofflow.eclipse.tane.feature_1.3.0.201104281647.jar" id="com.stateofflow.eclipse.tane.feature" version="1.3.0.201104281647"/>
-   <feature url="features/com.stateofflow.EclipseWikiFeature_2.7.1.201104281647.jar" id="com.stateofflow.EclipseWikiFeature" version="2.7.1.201104281647"/>
-   <feature url="features/com.stateofflow.ergo.feature_0.0.5.201104281647.jar" id="com.stateofflow.ergo.feature" version="0.0.5.201104281647"/>
-   <feature url="features/com.teaminabox.eclipse.sortit.feature_1.5.0.201104281647.jar" id="com.teaminabox.eclipse.sortit.feature" version="1.5.0.201104281647"/>
-   <feature url="features/com.zink.fly.buzz.feature_1.2.1.201104281647.jar" id="com.zink.fly.buzz.feature" version="1.2.1.201104281647"/>
-   <feature url="features/allthing.shrike.feature_1.0.0.201104281652.jar" id="allthing.shrike.feature" version="1.0.0.201104281652"/>
+   <feature url="features/allthing.shrike.feature_1.0.0.201104282140.jar" id="allthing.shrike.feature" version="1.0.0.201104282140"/>
+   <feature url="features/com.stateofflow.eclipse.metrics.feature_3.14.1.201104282140.jar" id="com.stateofflow.eclipse.metrics.feature" version="3.14.1.201104282140"/>
+   <feature url="features/com.stateofflow.eclipse.saveme.feature_1.0.3.201104282140.jar" id="com.stateofflow.eclipse.saveme.feature" version="1.0.3.201104282140"/>
+   <feature url="features/com.stateofflow.eclipse.tane.feature_1.3.0.201104282140.jar" id="com.stateofflow.eclipse.tane.feature" version="1.3.0.201104282140"/>
+   <feature url="features/com.stateofflow.EclipseWikiFeature_2.7.1.201104282140.jar" id="com.stateofflow.EclipseWikiFeature" version="2.7.1.201104282140"/>
+   <feature url="features/com.stateofflow.ergo.feature_0.0.5.201104282140.jar" id="com.stateofflow.ergo.feature" version="0.0.5.201104282140"/>
+   <feature url="features/com.teaminabox.eclipse.sortit.feature_1.5.0.201104282140.jar" id="com.teaminabox.eclipse.sortit.feature" version="1.5.0.201104282140"/>
+   <feature url="features/com.zink.fly.buzz.feature_1.2.1.201104282140.jar" id="com.zink.fly.buzz.feature" version="1.2.1.201104282140"/>
 </site>
