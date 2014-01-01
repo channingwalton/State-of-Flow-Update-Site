@@ -24,5 +24,8 @@
    <feature url="features/allthing.shrike.feature_1.0.0.201104282259.jar" id="allthing.shrike.feature" version="1.0.0.201104282259">
       <category name="State of Flow"/>
    </feature>
+   <feature url="features/com.stateofflow.EclipseWikiFeature_2.8.1.201401012055.jar" id="com.stateofflow.EclipseWikiFeature" version="2.8.1.201401012055">
+      <category name="State of Flow"/>
+   </feature>
    <category-def name="State of Flow" label="State of Flow"/>
 </site>
