@@ -27,5 +27,8 @@
    <feature url="features/com.stateofflow.EclipseWikiFeature_2.8.1.201401012055.jar" id="com.stateofflow.EclipseWikiFeature" version="2.8.1.201401012055">
       <category name="State of Flow"/>
    </feature>
+   <feature url="features/com.teaminabox.eclipse.sortit.feature_1.6.0.201608111401.jar" id="com.teaminabox.eclipse.sortit.feature" version="1.6.0.201608111401">
+      <category name="State of Flow"/>
+   </feature>
    <category-def name="State of Flow" label="State of Flow"/>
 </site>
